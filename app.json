@@ -1,6 +1,6 @@
 {
-  "name": "CROWN-MD",
-  "description": "𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 first born",
+  "name": "RHODVICK-MD",
+  "description": "RHODVICK™𝕏 first born",
   "keywords": [
     "bot",
     "whatsapp",
@@ -75,7 +75,7 @@
       "required": false
 },
  "ANTIBOT": {
-      "description": "Input TRUE if you want bot to kick other bots from group",
+      "description": "TRUE",
       "required": false
 },
  "WELCOME": {
@@ -83,7 +83,7 @@
       "required": false
 },
  "ANTIFOREIGN": {
-      "description": "Input TRUE if you want bot to kick non-kenyan numbers joining.",
+      "description": "FALSE",
       "required": false
 },
  "AUTOBIO": {
